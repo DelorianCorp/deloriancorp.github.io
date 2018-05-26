@@ -1,7 +1,7 @@
 # Especificaciones
 Especificaciones del prototipo DC001-M.
 
-![prototipo dc001-m.](/img/dc001-m_small.png)
+![prototipo dc001-m.](/dc001-m_small.png)
 
 _Componentes:_
 + **IC1**: PICAXE 08M2 (IC maestro).
