@@ -1,5 +1,5 @@
 # ![DelorianCorp logo.](/logo_s.png) DelorianCorp
-| [Especificaciones](./specifications.md) | [Lenguaje Tcx-dc](./tcx-dc.md) | [Lista de comandos](./commands.md) | [Firmware](./firmware.md)
+| [Especificaciones](./specifications.html) | [Lenguaje Tcx-dc](./tcx-dc.md) | [Lista de comandos](./commands.md) | [Firmware](./firmware.md)
 #### ¡Bienvenido a la página web de DelorianCorp!
 
 DelorianCorp es una empresa dedicada a fabricar prototipos de sitemas embebidos, junto con su firmware y el software necesario para su programación y uso.
