@@ -8,7 +8,7 @@ inicio:
 #funciones aquí
 fin;
 ```
-[Aquí](https://deloriancorp.github.io/es/commands.md) hay una lista de los comandos disponibles para Tcx.
+[Aquí](https://deloriancorp.github.io/es/commands.html) hay una lista de los comandos disponibles para Tcx.
 
 ## Dependecias:
 + Bash/Sh.
