@@ -11,6 +11,9 @@ _Componentes:_
 + **R1**: Resistor de 4.7K Ω.
 + **R2**: Resistor de 330 Ω.
 + **R3**: Resistor de 4.7K Ω.
++ **R4**: Resistor de 10K Ω.
++ **R5**: Resistor de 22K Ω.
++ **TSR1**: Toma jack estéreo de 3,5 mm.
 + **LCD1**: Pantalla LCD GDM1602K.
 + **VCC1**: 4 baterías AAA.
 
